@@ -1,0 +1,27 @@
+body
+{
+    background-size: cover;
+    background-position: center;
+}
+.heading
+{
+font-size: 25px;
+width: 100%;
+margin: 0px;
+color: white;
+}
+
+.status_1
+{
+font-size: 20px;
+color: cyan;
+}
+
+canvas
+{
+    border-radius: 25px;
+    border: lime 5px ridge;
+    box-shadow: 10px 10px 10px mediumslateblue;
+    color: greenyellow
+}
+
